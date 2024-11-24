@@ -20,6 +20,13 @@ O script oferece um menu interativo para escolher e personalizar diferentes padr
 * Exemplo de saída:
 * Triângulo Retângulo (com 5 linhas):
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+ <img width=50% src=""></img>
+
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
+
 ````
 *
 **
