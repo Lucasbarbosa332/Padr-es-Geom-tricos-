@@ -22,7 +22,7 @@ O script oferece um menu interativo para escolher e personalizar diferentes padr
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
- <img width=50% src=""></img>
+ <img width=50% src="https://github.com/Lucasbarbosa332/Padr-es-Geom-tricos-/blob/main/Captura%20de%20tela%202024-11-23%20035213.png"></img>
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
